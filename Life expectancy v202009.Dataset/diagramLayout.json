@@ -50,8 +50,9 @@
             "y": 0
           },
           "nodeIndex": "Metrics",
+          "nodeLineageTag": "6a0d62f0-182b-47d5-b38a-ef6fdf40dddc",
           "size": {
-            "height": 118,
+            "height": 733.8785853433975,
             "width": 234
           },
           "zIndex": 0
@@ -98,8 +99,9 @@
             "y": 101
           },
           "nodeIndex": "Legend",
+          "nodeLineageTag": "d32cabf6-336a-4f5b-a12d-d94097be9a05",
           "size": {
-            "height": 213,
+            "height": 303.19732142328934,
             "width": 234
           },
           "zIndex": 0
@@ -154,7 +156,7 @@
         }
       ],
       "name": "All tables",
-      "zoomValue": 100,
+      "zoomValue": 70.955543900968792,
       "pinKeyFieldsToTop": false,
       "showExtraHeaderInfo": false,
       "hideKeyFieldsWhenCollapsed": false,
